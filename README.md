@@ -8,4 +8,4 @@ A sleek, web-based calculator built with HTML, CSS, and JavaScript. This was cre
 * Error handling for division by zero and invalid inputs.
 
 ## Live Demo
-[Click here to use the live calculator](https://github.com/DivyanshuDubey10/Web-Calculator-)
+[Click here to use the live calculator]((https://divyanshudubey10.github.io/Web-Calculator-/))
